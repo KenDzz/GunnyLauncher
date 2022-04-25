@@ -1,3 +1,7 @@
+# Video:
+https://user-images.githubusercontent.com/23150179/165135868-f3948514-8a81-4d30-b94c-07efea4ec50f.mp4
+
+
 ## Launcher Gunny Lậu Siêu nhẹ (3mb)
 - [x] Siêu nhẹ
 - [x] Tùy chỉnh độ phân giải game
@@ -17,7 +21,4 @@ Mua Source code liên hệ : [KenDzz](https://www.facebook.com/Rin.Boss.Rin/)
 - [x] Nhận Dev Launcher game flash khác theo yêu cầu
 
 Liên hệ : [KenDzz](https://www.facebook.com/Rin.Boss.Rin/)
-
-# Video:
-https://user-images.githubusercontent.com/23150179/165135868-f3948514-8a81-4d30-b94c-07efea4ec50f.mp4
 
